@@ -1,0 +1,15 @@
+Model Evaluation Report
+=======================
+Train Loss: 0.2791387736797333
+Train Accuracy: 0.9241146445274353
+Test Loss: 0.46412432193756104
+Test Accuracy: 0.8855218887329102
+
+Predictions:
+File Name, Predicted Class
+Elnaz.jpg, 12
+Mohammad-Reza_Shajarian.jpg, 27
+Sahar.jpg, 2
+Tarane.jpg, 33
+Tarane2.jpg, 33
+Sahab.jpg, 29
